@@ -1,2 +1,11 @@
-# Client-Onboarding-One-Page-Prototype
-Prototype part 1
+# Internship Related Project
+
+Client onboarding page
+
+## Tech Stack
+
+- Java + springboot
+- Typscript
+- HTML 5
+- CSS
+- SQL
